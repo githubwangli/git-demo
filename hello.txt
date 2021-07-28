@@ -14,6 +14,7 @@ hello git! hello wangli!
 hello git! hello wangli!
 hello git! hello wangli!
 hello git! hello wangli!
+hello git! hello wangli! hot-fix test!
 hello git! hello wangli!
 hello git! hello wangli! master text!
 
